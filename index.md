@@ -5,3 +5,5 @@
 ##### This is an h5
 ###### This is an h6 Header
 This is not a header
+Now an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
