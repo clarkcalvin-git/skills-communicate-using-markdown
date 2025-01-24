@@ -7,3 +7,6 @@
 This is not a header
 Now an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
